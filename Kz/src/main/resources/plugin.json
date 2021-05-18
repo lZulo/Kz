@@ -1,0 +1,12 @@
+{
+	"name": "Kz",
+	"author": "Zulo",
+	"version": "1.7.1",
+	"minVersion": "1.13.17 beta 56",
+	"supportedVersion": "1.13.17 beta 93",
+	"features": [
+		"xq.BestFriend"
+	],
+	"download": "https://github.com/darkbot-reloaded/DefaultPlugin/releases/download/v1.7.1/DefaultPlugin.jar",
+	"update": "https://raw.githubusercontent.com/darkbot-reloaded/DefaultPlugin/master/src/main/resources/plugin.json"
+}
